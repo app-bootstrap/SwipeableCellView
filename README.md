@@ -1,5 +1,4 @@
-SwipeableCell
-=============
+# SwipeableCell
 
 ## Preview
 
@@ -14,13 +13,13 @@ copy `SwipeableCell.h`, `SwipeableCell.m` into your project.
 
 Add the following import to the top of the file:
 
-```objc
+``` objc
 #import "SwipeableCell.h"
 ```
 
 ### Configuration
 
-```objc
+``` objc
 #import "SwipeableCell.h"
 #import "ViewController.h"
 
